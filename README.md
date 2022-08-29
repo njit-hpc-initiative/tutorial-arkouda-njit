@@ -1,4 +1,4 @@
-# PPoPP 2023 Arkouda Tutorial DOcumentation
+# PPoPP 2023 Arkouda Tutorial Documentation
 
 ## About Arkouda
 
