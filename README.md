@@ -1,5 +1,5 @@
 # PPoPP 2023 Arkouda Tutorial Documentation
-
+![banner](https://github.com/njit-hpc-initiative/tutorial-arkouda-njit/blob/main/readme_resources/readme_banner.png)
 ## About Arkouda
 
 Arkouda is an open-source framework created with the intention to facilitate the processing of data at-scale with a interface similar to NumPy. It is powered through a powerful Chapel back end with a simple-to-use Python front end. 
