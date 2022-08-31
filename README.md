@@ -27,6 +27,9 @@ and [abstract](https://github.com/sourceryinstitute/PAW/raw/gh-pages/PAW-ATM19/e
 
 ### Videos
 
+### Threads
+
+Brief Intro about Arkouda [Click Here](https://twitter.com/KhatwaniNaren/status/1520519698038898691?s=20&t=jSUgnRajicmanFdS9C_3ig)
 
 ## Bader Research Group Website
 
