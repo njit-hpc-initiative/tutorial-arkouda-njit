@@ -27,7 +27,8 @@ and [abstract](https://github.com/sourceryinstitute/PAW/raw/gh-pages/PAW-ATM19/e
 
 ### Publications 
 
-
+- Large Scale String Analytics in Arkouda, IEEE HPEC.
+  - Zhihui Du
 
 - Enabling Exploratory Large Scale Graph Analytics through Arkouda. IEEE HPEC.
   - Zhihui Du, Oliver Alvarado Rodriguez, David Bader (2021). [link](https://davidbader.net/publication/2021-drb/2021-drb.pdf)
