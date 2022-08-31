@@ -30,6 +30,7 @@ and [abstract](https://github.com/sourceryinstitute/PAW/raw/gh-pages/PAW-ATM19/e
 
 ## Bader Research Group Website
 
+Click [here](https://njit-hpc-initiative.github.io) to view
 
 ## Gitter channels
 [Arkouda Gitter channel](https://gitter.im/ArkoudaProject/community)
