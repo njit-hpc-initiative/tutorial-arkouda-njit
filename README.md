@@ -58,10 +58,13 @@ Brief Intro about Arkouda [Click Here](https://twitter.com/KhatwaniNaren/status/
 
 Click [here](https://njit-hpc-initiative.github.io) to view
 
+## Open Source Contribution to the NJIT - HPC Initiative
+
 ## Gitter channels 🔗
 
 [Arkouda Gitter channel](https://gitter.im/ArkoudaProject/community)
 
 [Chapel Gitter channel](https://gitter.im/chapel-lang/chapel)
 
+[Discord Server]()
 
