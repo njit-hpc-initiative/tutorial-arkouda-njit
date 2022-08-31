@@ -8,7 +8,7 @@ In this tutorial, we will demonstrate how Arkouda can be used not only for typic
 
 ## Previous Work 🔧
 
-### Talks ℹ️
+### Talks 📢
 
 - [Arkouda Hack-a-thon videos](https://www.youtube.com/playlist?list=PLpuVAiniqZRXnOAhfHmxbAcVPtMKb-RHN)
 
