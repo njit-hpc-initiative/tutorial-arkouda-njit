@@ -6,9 +6,9 @@ Arkouda is an open-source framework created with the intention to facilitate the
 
 In this tutorial, we will demonstrate how Arkouda can be used not only for typical data analysis, but also explore how it can be used for large-scale graph analysis through our recently realesed Arachne framework. We will show all the steps in a typical data science workflow from data gathering to data cleaning, and ultimately, data visualization.
 
-## Previous Work
+## Previous Work 🔧
 
-### Talks
+### Talks ℹ️
 
 - [Arkouda Hack-a-thon videos](https://www.youtube.com/playlist?list=PLpuVAiniqZRXnOAhfHmxbAcVPtMKb-RHN)
 
@@ -25,7 +25,7 @@ and [abstract](https://github.com/sourceryinstitute/PAW/raw/gh-pages/PAW-ATM19/e
 
 --------------------------------------------------------
 
-### Publications 
+### Publications 📗
 
 - Large Scale String Analytics in Arkouda, IEEE HPEC.
   - Zhihui Du, Oliver Alvarado Rodriguez, David Bader (2021). [link](https://davidbader.net/publication/2021-drb2/2021-drb2.pdf)
@@ -46,19 +46,20 @@ and [abstract](https://github.com/sourceryinstitute/PAW/raw/gh-pages/PAW-ATM19/e
 
 --------------------------------------------------------
 
-### Videos
+### Videos 📹
 
 --------------------------------------------------------
 
-### Threads
+### Threads 🧵
 
 Brief Intro about Arkouda [Click Here](https://twitter.com/KhatwaniNaren/status/1520519698038898691?s=20&t=jSUgnRajicmanFdS9C_3ig)
 
-## Bader Research Group Website
+## Bader Research Group Website 💻
 
 Click [here](https://njit-hpc-initiative.github.io) to view
 
-## Gitter channels
+## Gitter channels 🔗
+
 [Arkouda Gitter channel](https://gitter.im/ArkoudaProject/community)
 
 [Chapel Gitter channel](https://gitter.im/chapel-lang/chapel)
