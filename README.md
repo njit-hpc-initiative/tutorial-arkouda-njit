@@ -27,13 +27,13 @@ and [abstract](https://github.com/sourceryinstitute/PAW/raw/gh-pages/PAW-ATM19/e
 
 ### Publications 
 
-- Zhihui Du, Oliver Alvarado Rodriguez, David Bader (2021). Large Scale String Analytics In Arkouda. IEEE HPEC. [link] (https://davidbader.net/publication/2021-drb2/2021-drb2.pdf)
+- Zhihui Du, Oliver Alvarado Rodriguez, David Bader (2021). Large Scale String Analytics In Arkouda. IEEE HPEC. [link](https://davidbader.net/publication/2021-drb2/2021-drb2.pdf)
 
-- Zhihui Du, Oliver Alvarado Rodriguez, David Bader (2021). Enabling Exploratory Large Scale Graph Analytics through Arkouda. IEEE HPEC. [link] (https://davidbader.net/publication/2021-drb/2021-drb.pdf)
+- Zhihui Du, Oliver Alvarado Rodriguez, David Bader (2021). Enabling Exploratory Large Scale Graph Analytics through Arkouda. IEEE HPEC. [link](https://davidbader.net/publication/2021-drb/2021-drb.pdf)
 
-- Joseph Patchett, Zhihui Du, David Bader (2021). K-Truss Implementation in Arkouda (Extended Abstract). IEEE HPEC. [link] (https://davidbader.net/publication/2021-pdb/2021-pdb.pdf)
+- Joseph Patchett, Zhihui Du, David Bader (2021). K-Truss Implementation in Arkouda (Extended Abstract). IEEE HPEC. [link](https://davidbader.net/publication/2021-pdb/2021-pdb.pdf)
 
-- Zhihui Du, Oliver Alvarado Rodriguez, Joseph Patchett, David Bader (2021). Interactive Graph Stream Analytics in Arkouda. Algorithms. [link] (https://davidbader.net/publication/2021-drpb/2021-drpb.pdf)
+- Zhihui Du, Oliver Alvarado Rodriguez, Joseph Patchett, David Bader (2021). Interactive Graph Stream Analytics in Arkouda. Algorithms. [link](https://davidbader.net/publication/2021-drpb/2021-drpb.pdf)
 
 - Zhihui Du, Oliver Alvarado Rodriguez, David A. Bader, Michael Merrill, William Reus (2021). Exploratory Large Scale Graph Analytics in Arkouda. CHIUW. [link](https://davidbader.net/publication/2021-drbmr/2021-drbmr.pdf)
 
