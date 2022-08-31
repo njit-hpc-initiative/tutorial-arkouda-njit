@@ -28,7 +28,7 @@ and [abstract](https://github.com/sourceryinstitute/PAW/raw/gh-pages/PAW-ATM19/e
 ### Publications 
 
 - Zhihui Du, Oliver Alvarado Rodriguez, David Bader (2021). Large Scale String Analytics In Arkouda. IEEE HPEC. 
-[link](https://davidbader.net/publication/2021-drb2/2021-drb2.pdf)
+  - [link](https://davidbader.net/publication/2021-drb2/2021-drb2.pdf)
 
 - Zhihui Du, Oliver Alvarado Rodriguez, David Bader (2021). Enabling Exploratory Large Scale Graph Analytics through Arkouda. IEEE HPEC. [link](https://davidbader.net/publication/2021-drb/2021-drb.pdf)
 
