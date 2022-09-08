@@ -68,5 +68,5 @@ Click [here](https://njit-hpc-initiative.github.io) to view
 
 [Chapel Gitter channel](https://gitter.im/chapel-lang/chapel)
 
-[Discord Server]()
+[Discord Server](https://discord.gg/sAD2XajWjS)
 
