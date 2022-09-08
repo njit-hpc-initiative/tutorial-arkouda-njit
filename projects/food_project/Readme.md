@@ -3,11 +3,15 @@ This project analyzes the open source global food prices [dataset](https://www.k
 
 The project has a set of basic computations done on the food dataset which cn be listed as:
 
-**1.**
-**2.**
-**3.**
-**4.**
-**5.**
+**1.dd**
+d
+**2.dd**
+d
+**3.d**
+d
+**4.dd**
+dd
+**5.ddd**
 
 
 ## Requirements
