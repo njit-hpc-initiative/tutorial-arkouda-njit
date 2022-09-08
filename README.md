@@ -48,6 +48,8 @@ and [abstract](https://github.com/sourceryinstitute/PAW/raw/gh-pages/PAW-ATM19/e
 
 ### Videos 📹
 
+- Arkouda Hack-a-thon [videos](https://www.youtube.com/playlist?list=PLpuVAiniqZRXnOAhfHmxbAcVPtMKb-RHN)
+
 --------------------------------------------------------
 
 ### Threads 🧵
