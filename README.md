@@ -1,4 +1,4 @@
-# 2023 Arkouda Tutorial Proposal Documentation
+# Arkouda Tutorial Proposal Documentation
 ![banner](https://github.com/njit-hpc-initiative/tutorial-arkouda-njit/blob/main/readme_resources/readme_banner.png)
 ## About Arkouda
 
