@@ -3,7 +3,7 @@ This project analyzes the LINK open source global food prices dataset using Arko
 ## Requirements
 
 <aside>
-💡
+💡 Basic knowledge of python and some linux commands
 
 </aside>
 
