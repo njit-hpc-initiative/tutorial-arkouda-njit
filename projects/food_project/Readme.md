@@ -3,10 +3,13 @@ This project analyzes the open source global food prices [dataset](https://www.k
 
 The project has a set of basic computations done on the food dataset which cn be listed as:
 
-**1.dd**
-d
-**2.dd**
-d
+**1. Conversion and cleaning of data**
+- For analyzing any dataset into Arkouda, we need to make sure the dataset is in HDF5 format. For this we have few different methods but the preferable one is to use a formatter file and convert the existing CSV dataset.
+
+- Cleaning of the dataset involved not having any advanced datatypes in the dataset
+
+**2. Currency Conversion**
+- Since we are using currency as a comparison parameter in this project we have converted all the currencies into 
 **3.d**
 d
 **4.dd**
