@@ -10,8 +10,10 @@ The project has a set of basic computations done on the food dataset which cn be
 
 **2. Currency Conversion**
 - Since we are using currency as a comparison parameter in this project we have converted all the currencies into 
-**3.d**
-d
+
+**3. **
+-  
+
 **4.dd**
 dd
 **5.ddd**
