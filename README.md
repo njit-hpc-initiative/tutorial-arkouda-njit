@@ -1,4 +1,4 @@
-# Arkouda Tutorial Proposal Documentation
+# Interactive Large-Scale Data and Graph Analytics
 ![banner](https://github.com/njit-hpc-initiative/tutorial-arkouda-njit/blob/main/readme_resources/readme_banner.png)
 ## About Arkouda
 
