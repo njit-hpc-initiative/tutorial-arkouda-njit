@@ -6,6 +6,9 @@ Arkouda is an open-source framework created with the intention to facilitate the
 
 In this tutorial, we will demonstrate how Arkouda can be used not only for typical data analysis, but also explore how it can be used for large-scale graph analysis through our recently realesed Arachne framework. We will show all the steps in a typical data science workflow from data gathering to data cleaning, and ultimately, data visualization.
 
+## About Arachne
+Arachne is an Arkouda Package for Large-Scale Graph Analytics
+
 ## Previous Work 🔧
 
 ### Talks 📢
