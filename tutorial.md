@@ -2,27 +2,26 @@
 
 ### Install Ubuntu and initial steps to install chapel 
     
-    - Create a new folder  
-        - Clone the files from GitHub arkouda (https://github.com/Bears-R-Us/arkouda) and arkouda-njit (https://github.com/Bears-R-Us/arkouda-njit) and save them in a folder called RESEARCH in the C-drive / desktop (anywhere where you will remember the path.) 
+- **Create a new folder**  
+    - Clone the files from GitHub [arkouda](https://github.com/Bears-R-Us/arkouda) and [arkouda-njit](https://github.com/Bears-R-Us/arkouda-njit) and save them in a folder called RESEARCH in the C-drive / desktop (anywhere where you will remember the path.) 
         
-        - Install the chapel-1.28.0.tar.gz file 
+    - Download [chapel](https://github.com/chapel-lang/chapel/releases/download/1.28.0/chapel-1.28.0.tar.gz)
 
-    - Install Ubuntu-WSL from this website (https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support#2-install-wsl/)
+    - Install [Ubuntu-WSL](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support#2-install-wsl/)
 
     - Activate/make your Linux account and open the ubuntu terminal 
 
     - Type bash in the terminal 
-
        - bash is all set to be used! 
 
-    - Now, Use the commands on the chapel-tutorial link (https://chapel-lang.org/docs/usingchapel/QUICKSTART.html) instructions to unzip the file extract and run chapel on the terminal
+    - Now, Use the commands on the [chapel-tutorial](https://chapel-lang.org/docs/usingchapel/QUICKSTART.html) instructions to unzip the file extract and run chapel on the terminal
 
 ### Detailed steps to install Chapel: 
 
-    - After cloning the folders, cd into the directory where chapel-1.28.0.tar.gz file is located 
+- After cloning the folders, cd into the directory where chapel-1.28.0.tar.gz file is located 
     - Extract chapel using - `tar xzf chapel-1.28.0.tar.gz` 
-    - Then, Type command **source util/quickstart/setchplenv.bash**
-        - This is same as this link https://chapel-lang.org/docs/usingchapel/QUICKSTART.html 
+    - Then, Type command ```source util/quickstart/setchplenv.bash```
+        - This is same as this [link](https://chapel-lang.org/docs/usingchapel/QUICKSTART.html) 
     - Next, type **make**  
         - Chapel is built
 
@@ -66,7 +65,7 @@
     
     -   Go to line 64 & 65 and comment out the code.
         -   Ex. ```# echo "Setting CHPL\_RE2 to none"```
-        -   Ex. ```\# export CHPL\_RE2=none```
+        -   Ex. ```# export CHPL\_RE2=none```
     -   Open your terminal and cd into the Tutorial folder.
     -   Extract chapel - ```tar xzf chapel-1.28.0.tar.gz```
     -   Then cd into that folder and run the command ```source util/quickstart/setchplenv.bash```
