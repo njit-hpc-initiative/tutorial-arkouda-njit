@@ -1,3 +1,5 @@
+![banner](banner_food_proj.png)
+
 This project analyzes the open source global food prices [dataset](https://www.kaggle.com/datasets/jboysen/global-food-prices) using Arkouda (a software package that allows a user to interactively issue massive parallel computations on distributed data using functions and syntax that mimic NumPy, the underlying computational library used in most Python data science workflows.)  
 
 
