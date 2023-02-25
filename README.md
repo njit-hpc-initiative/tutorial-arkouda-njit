@@ -30,6 +30,8 @@ and [abstract](https://github.com/sourceryinstitute/PAW/raw/gh-pages/PAW-ATM19/e
 
 ### Publications 📗
 
+- Arachne: An Arkouda Package for Large-Scale Graph Analytics
+  - Oliver Alvarado Rodriguez, Zhihui Du, Joseph T. Patchett, Fuhuan Li, David A. Bader [link](https://www.oliveralvaradorodriguez.net/publication/2022-rdplb/)
 - Large Scale String Analytics in Arkouda, IEEE HPEC.
   - Zhihui Du, Oliver Alvarado Rodriguez, David Bader (2021). [link](https://davidbader.net/publication/2021-drb2/2021-drb2.pdf)
 
